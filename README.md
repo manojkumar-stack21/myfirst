@@ -1,2 +1,2 @@
-# myfirst
-today is my first time in github . i am trying to build a good project
+# Myfirst
+Today is my first time in github so I'm trying to build a good project.
